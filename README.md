@@ -1,2 +1,4 @@
 # hello-git
-Przykładowy opis
+Przykładowy opis sample 
+# Credentials
+MIT License
